@@ -24,7 +24,7 @@
     // constructicons form DEVASTATOR...
     LifeField(){   /* intentionally left blank */  }
     LifeField( unsigned long int field_width, unsigned long int field_height ){
-      fieldWidth = field_width;   fieldHeight = field_height
+      fieldWidth = field_width;   fieldHeight = field_height;
       initField( field_width * field_height );
     }
 

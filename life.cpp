@@ -1,6 +1,6 @@
 
 #include <stdlib.h>
-#include "life.h"
+#include "life.hpp"
 
 
   // a few macros and stuff to define our field...
